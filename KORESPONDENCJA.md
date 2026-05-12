@@ -58,7 +58,7 @@ Szanowny Panie,
 
 Nazywam się Krzysztof Wiatr. Niedawno pomyślnie obroniłem pracę magisterską z psychologii i obecnie rozwijam projekt dotyczący digital phenotypingu oraz monitorowania rytmów okołodobowych w detekcji zaburzeń psychicznych. Otrzymałem propozycję realizacji Doktoratu Wdrożeniowego we współpracy z PORT Łukasiewicz, gdzie potencjalnym opiekunem po stronie partnera byłby dr Michał Ślęzak.
 
-Zwracam się z uprzejmą prośbą o rozważenie, czy byłby Pan zainteresowany pełnić rolę promotora/opiekuna naukowego w takim przedsięwzięciu lub ewentualnie czy mógłby Pan polecić osoby na SWPS, które mogłyby objąć taką funkcję. Byłbym wdzięczny także za krótką informację, czy widzi Pan możliwość realizacji Doktoratu Wdrożeniowego w ramach struktur SWPS oraz jakie procedury należałoby w tym celu podjąć.
+Zwracam się z uprzejmą prośbą o rozważenie, czy byłby Pan zainteresowany pełnić rolę promotora/opiekuna naukowego w takim przedsięwzięciu lub ewentualnie czy mógłby Pan polecić osoby na PWr, które mogłyby objąć taką funkcję. Byłbym wdzięczny także za krótką informację, czy widzi Pan możliwość realizacji Doktoratu Wdrożeniowego w ramach struktur SWPS oraz jakie procedury należałoby w tym celu podjąć.
 
 Dla wygody mogę przesłać krótki one-pager o projekcie i planowanej współpracy z PORT Łukasiewicz.
 
@@ -68,6 +68,13 @@ Z poważaniem,
 Krzysiek Wiatr
 
 ---
+
+## Notatka: szybkie wyszukiwanie informacji o Michale Woźniaku
+
+- Afiliacja: Politechnika Wrocławska (PWr) — Michał Woźniak jest powiązany z PWr (Politechnika Wrocławska).
+- Wyniki wstępnego wyszukiwania: odnaleziono stronę główną PWr i materiały dotyczące Szkoły Doktorskiej PWr; nie udało się jednoznacznie zlokalizować profilu osobowego Michała Woźniaka w wynikach ogólnych.
+- Dalsze kroki: przeszukać LinkedIn, Google Scholar, ResearchGate oraz wydziałowe strony PWr; jeśli przekażesz dodatkowe dane (wydział, jednostkę, e-mail), wykonam dokładniejsze wyszukiwanie i dodam link do profilu.
+
 
 
 
