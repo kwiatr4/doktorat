@@ -92,6 +92,13 @@ Krzysiek Wiatr
   - Liczne artykuły i współautorstwa w tematach: oversampling, data streams, ensemble methods, continual learning.
 - Dydaktyka / prowadzone przedmioty: na profilu katedry i profilu pracownika nie ma kompletnej listy wykładów w formie jednego spisu, jednak profesor kieruje zespołem Uczenia Maszynowego i nadzoruje wiele prac dyplomowych; typowe tematy dydaktyczne związane z jego aktywnością to: Machine Learning, Data Stream Mining, Ensemble Methods, Optymalizacja i sieci komputerowe. Mogę wyszukać dokładne sylabusy i „przedmioty prowadzone” na stronie WIT/PWr i w katalogu przedmiotów, jeśli chcesz dokładną listę.
 
+## Staszek Saganowski (PWr, AI)
+
+- Poznany na meetupie o AI; rozmawialiśmy wtedy o doktoracie.
+- Afiliacja: Department of Artificial Intelligence, Politechnika Wrocławska.
+- Obszary aktywności: affect recognition, affective computing, wearable technologies, emocje w życiu codziennym, dane fizjologiczne i mobilne technologie.
+- Wątek do ewentualnego dalszego kontaktu: może znać realia doktoratu i współpracy na styku AI, wearables i danych fizjologicznych.
+
 Źródła: profil katedry KSSK PWr (kssk.pwr.edu.pl), profil pracownika (kssk.pwr.edu.pl/users/wozniak), Google Scholar (profile i listy publikacji).
 
 
