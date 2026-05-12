@@ -41,3 +41,33 @@ Oczekiwanie na odpowiedź
 
 ---
 
+## Rozmowa z Anią (notatki)
+
+- Ania potwierdziła, że na PWR robią doktoraty na przecięciu różnych dziedzin — to dobra opcja dla projektów interdyscyplinarnych.
+- Przykład: Maciej Piasecki zrobił podobny doktorat (przykład sukcesu interdyscyplinarnego podejścia).
+- Uwaga dotycząca potencjalnych promotorów:
+  - Katedra związana z Kajdanowiczem (AI) bywa problematyczna — przyjmują dużo doktorantów, nie wszyscy kończą studia.
+  - Kozienko — radzi się omijać.
+
+## Mail 2: Szkic wiadomości do Michała Woźniaka
+
+**Data:** (do wysłania)
+**Temat:** Prośba o rozważenie roli promotora / prośba o wskazówki
+
+Szanowny Panie,
+
+Nazywam się Krzysztof Wiatr. Niedawno pomyślnie obroniłem pracę magisterską z psychologii i obecnie rozwijam projekt dotyczący digital phenotypingu oraz monitorowania rytmów okołodobowych w detekcji zaburzeń psychicznych. Otrzymałem propozycję realizacji Doktoratu Wdrożeniowego we współpracy z PORT Łukasiewicz, gdzie potencjalnym opiekunem po stronie partnera byłby dr Michał Ślęzak.
+
+Zwracam się z uprzejmą prośbą o rozważenie, czy byłby Pan zainteresowany pełnić rolę promotora/opiekuna naukowego w takim przedsięwzięciu lub ewentualnie czy mógłby Pan polecić osoby na SWPS, które mogłyby objąć taką funkcję. Byłbym wdzięczny także za krótką informację, czy widzi Pan możliwość realizacji Doktoratu Wdrożeniowego w ramach struktur SWPS oraz jakie procedury należałoby w tym celu podjąć.
+
+Dla wygody mogę przesłać krótki one-pager o projekcie i planowanej współpracy z PORT Łukasiewicz.
+
+Z góry dziękuję za poświęcony czas i wszelkie wskazówki.
+
+Z poważaniem,
+Krzysiek Wiatr
+
+---
+
+
+
