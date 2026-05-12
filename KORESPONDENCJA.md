@@ -75,6 +75,24 @@ Krzysiek Wiatr
 - Wyniki wstępnego wyszukiwania: odnaleziono stronę główną PWr i materiały dotyczące Szkoły Doktorskiej PWr; nie udało się jednoznacznie zlokalizować profilu osobowego Michała Woźniaka w wynikach ogólnych.
 - Dalsze kroki: przeszukać LinkedIn, Google Scholar, ResearchGate oraz wydziałowe strony PWr; jeśli przekażesz dodatkowe dane (wydział, jednostkę, e-mail), wykonam dokładniejsze wyszukiwanie i dodam link do profilu.
 
+## Znaleziska: prof. dr hab. inż. Michał Woźniak (PWr)
+
+- Stanowisko: Kierownik Katedry Systemów i Sieci Komputerowych, Wydział Informatyki i Telekomunikacji, Politechnika Wrocławska. Redaktor naczelny czasopisma "Pattern Analysis and Applications"; członek komitetów naukowych (PAN).
+- Obszary badawcze: machine learning (incl. ensemble learning), pattern recognition, data stream mining, concept drift, continual/continual learning (life-long ML), imbalance data classification, classifier ensembles, neural network architectures, optimization, optical networks i zagadnienia z teleinformatyki.
+- Projekty: zaangażowany lub kierownik projektów takich jak IDSTREAM, MOO, LMLDS, EON, SWAROG i inne (projekty NCN/NCBiR i międzynarodowe).
+- Tematy prac magisterskich (przykładowe): fake news detection, explainable AI/ML, data stream classification, learning from imbalanced data, video/image manipulation discovery.
+- Wybrane publikacje (przykłady):
+  - "Radial-Based Oversampling for Multiclass Imbalanced Data Classification" — IEEE Transactions on Neural Networks and Learning Systems (2020).
+  - "Optimization of multicast traffic in elastic optical networks with distance-adaptive transmission" — (IEEE, 2014).
+  - "Active learning approach to concept drift problem" — Logic Journal of IGPL (2012).
+  - "Combining active learning with concept drift detection for data stream mining" — (2018, IEEE conference).
+  - "Continual Learning with Weight Interpolation" — CVPR Workshop (2024).
+  - Liczne artykuły i współautorstwa w tematach: oversampling, data streams, ensemble methods, continual learning.
+- Dydaktyka / prowadzone przedmioty: na profilu katedry i profilu pracownika nie ma kompletnej listy wykładów w formie jednego spisu, jednak profesor kieruje zespołem Uczenia Maszynowego i nadzoruje wiele prac dyplomowych; typowe tematy dydaktyczne związane z jego aktywnością to: Machine Learning, Data Stream Mining, Ensemble Methods, Optymalizacja i sieci komputerowe. Mogę wyszukać dokładne sylabusy i „przedmioty prowadzone” na stronie WIT/PWr i w katalogu przedmiotów, jeśli chcesz dokładną listę.
+
+Źródła: profil katedry KSSK PWr (kssk.pwr.edu.pl), profil pracownika (kssk.pwr.edu.pl/users/wozniak), Google Scholar (profile i listy publikacji).
+
+
 
 
 
