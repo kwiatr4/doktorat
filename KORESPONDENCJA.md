@@ -54,13 +54,15 @@ Oczekiwanie na odpowiedź
 **Data:** (do wysłania)
 **Temat:** Prośba o rozważenie roli promotora / prośba o wskazówki
 
-Szanowny Panie,
+Szanowny Panie Profesorze,
 
 Nazywam się Krzysztof Wiatr. Niedawno pomyślnie obroniłem pracę magisterską z psychologii i obecnie rozwijam projekt dotyczący digital phenotypingu oraz monitorowania rytmów okołodobowych w detekcji zaburzeń psychicznych. Otrzymałem propozycję realizacji Doktoratu Wdrożeniowego we współpracy z PORT Łukasiewicz, gdzie potencjalnym opiekunem po stronie partnera byłby dr Michał Ślęzak.
 
+Proponowany temat rozprawy: wykorzystanie biomarkerów zbieranych przez smartfony do detekcji zaburzeń psychicznych, ze szczególnym uwzględnieniem rytmów okołodobowych i aktywności.
+
 Zwracam się z uprzejmą prośbą o rozważenie, czy byłby Pan zainteresowany pełnić rolę promotora/opiekuna naukowego w takim przedsięwzięciu lub ewentualnie czy mógłby Pan polecić osoby na PWr, które mogłyby objąć taką funkcję. Byłbym wdzięczny także za krótką informację, czy widzi Pan możliwość realizacji Doktoratu Wdrożeniowego w ramach struktur SWPS oraz jakie procedury należałoby w tym celu podjąć.
 
-Dla wygody mogę przesłać krótki one-pager o projekcie i planowanej współpracy z PORT Łukasiewicz.
+Dla wygody załączę krótki one-pager opisujący projekt i planowaną współpracę z PORT Łukasiewicz.
 
 Z góry dziękuję za poświęcony czas i wszelkie wskazówki.
 
