@@ -3,6 +3,22 @@
 ## Cel programu
 Program wspiera tworzenie warunków do rozwoju współpracy szkolnictwa wyższego i nauki z otoczeniem społeczno-gospodarczym. Doktorant kształci się we współpracy z przedsiębiorstwem lub innym podmiotem, a efektem jest praktyczne wdrożenie wyników jego pracy naukowej.
 
+## Stan roboczy projektu
+- Masz już tytuł magistra psychologii ze SWPS, ukończony z wyróżnieniem.
+- Projekt ma być realizowany we współpracy ze startupem oraz z PORT Łukasiewicz.
+- Punkt wyjścia badawczego to cykle okołodobowe i digital phenotyping.
+- Wariant roboczy badania: analiza danych ze smartfona bez opasek i bez dodatkowych urządzeń noszonych.
+- Inspiracją są dwa artykuły wskazane w onepagerze dotyczące biomarkerów depresji i pasywnego sensingu mobilnego.
+- Następny krok formalny to znalezienie szkoły doktorskiej i promotora po stronie uczelni lub instytutu, który wejdzie w ten temat.
+- Równolegle trzeba potwierdzić opiekuna pomocniczego po stronie podmiotu współpracującego.
+
+## Najbliższy krok praktyczny
+1. Ustalić szkołę doktorską prowadzącą odpowiednią dyscyplinę.
+2. Znaleźć promotora akademickiego zgodnego z tematem.
+3. Doprecyzować roboczy temat: smartfon-only monitoring rytmów okołodobowych.
+4. Spiąć role: wnioskodawca, promotor, opiekun pomocniczy, doktorant.
+5. Dopiero potem pisać pełną część I wniosku.
+
 ---
 
 ## Moduły programu
