@@ -37,7 +37,61 @@ Krzysiek Wiatr
   3. Wskazówki i pomoc w dostaniu się do szkoły doktorskiej
 
 ### Status: 
-Oczekiwanie na odpowiedź
+Otrzymane odpowiedzi
+
+---
+
+## Odpowiedź od Moniki Kamili Mikołajczak
+
+**Data:** 13 maja 2026, 08:22
+
+Szanowny Panie Krzysztofie
+
+podejrzewam, że mechanizm jest odwrotny, najpierw wniosek, a potem od jego efektu zależy rekrutacja, ale nie chcę mówić na pewno, bo kompletnie nie znam się na procedurze.
+Najlepiej na niej zna sie p. Agata i Ani.
+Szanowne Panie, pomożecie?
+
+pozdrawiam m.
+
+Monika Mikołajczak
+Z-czyni Dyrektora Działu Badań Naukowych
+
+---
+
+## Odpowiedź od Agnieszki Zydlewskiej (Koordynatorka ds. doktoratu wdrożeniowego)
+
+**Data:** 13 maja 2026, 08:54
+
+Dzień dobry, Panie Krzysztofie.
+
+Na najbliższy rok akademicki rekrutacja jest już zakończona (formularz zgłoszeniowy do programu "Doktorat wdrożeniowy" należało złożyć do 31 marca br.).
+Informacje o programie i formalnościach rekrutacyjnych znajdzie Pan na stronie: https://www.swps.pl/oferta/warszawa/szkola-doktorska/doktorat-wdrozeniowy-warszawa
+
+W razie dodatkowych pytań, proszę o kontakt (wdrozeniowe@swps.edu.pl).
+
+Pozdrawiam serdecznie
+Agnieszka Zydlewska
+Koordynatorka ds. doktoratu wdrożeniowego
+
+### Podsumowanie odpowiedzi:
+
+- Rekrutacja na doktorat wdrożeniowy na SWPS na następny rok akademicki jest już zamknięta (termin: 31 marca).
+- Procedura wymaga najpierw złożenia wniosku, a dopiero potem następuje rekrutacja.
+- Więcej informacji dostępne na stronie programu.
+- Kontakt: wdrozeniowe@swps.edu.pl
+
+## Wiadomość wysłana do Moniki Mikołajczak i Agnieszki Zydlewskiej
+
+Szanowne Panie,
+
+dziękuję za szybką i życzliwą odpowiedź. Dopiero w ostatnich dniach otrzymałem konkretną propozycję współpracy przy doktoracie wdrożeniowym, dlatego wysłałem zapytanie o procedurę dopiero teraz.
+
+Rozumiem, że realizacja takiego projektu wymaga odpowiednio wcześniejszego przygotowania oraz dość dużej liczby formalności organizacyjnych. W takim razie potraktuję ten dodatkowy czas jako możliwość lepszego przygotowania się do aplikowania w przyszłorocznej rekrutacji — zarówno pod względem projektu badawczego, jak i doświadczenia naukowego.
+
+Dziękuję raz jeszcze za pomoc i wskazówki.
+
+Z wyrazami szacunku,
+Krzysztof Wiatr
 
 ---
 
@@ -48,6 +102,7 @@ Oczekiwanie na odpowiedź
 - Uwaga dotycząca potencjalnych promotorów:
   - Katedra związana z Kajdanowiczem (AI) bywa problematyczna — przyjmują dużo doktorantów, nie wszyscy kończą studia.
   - Kozienko — radzi się omijać.
+
 
 ## Mail 2: Szkic wiadomości do Michała Woźniaka
 
@@ -70,6 +125,60 @@ Z poważaniem,
 Krzysiek Wiatr
 
 ---
+
+
+## Odpowiedź od prof. Michała Woźniaka
+
+**Data:** (otrzymano)
+
+Dzień dobry,
+
+Musielibyśmy porozmawiać, ale wydaje mi się, że w tym roku rozpoczęcie studiów doktoranckich w ramach doktoratu wdrożeniowego nie jest możliwe https://szd.pwr.edu.pl/rekrutacja/rekrutacja-do-programu-doktorat-wdrozeniowy.
+
+Jeżeli jest Pan zainteresowany realizacją od przyszłego roku, to dobrze, abyśmy umówili się na spotkanie i jeżeli uznalibyśmy, że jest szansa na owocną współpracę, to rozpoczęlibyśmy prace, które pozwoliłyby na doprecyzowanie tematyki i rekrutację w przyszłym roku akademickim.
+
+Z poważaniem,
+Michał Woźniak
+
+### Podsumowanie odpowiedzi:
+
+- W tym roku rozpoczęcie doktoratu wdrożeniowego na PWr wygląda na niemożliwe.
+- Profesor sugeruje spotkanie i dalsze doprecyzowanie tematyki, jeśli planujesz start w przyszłym roku akademickim.
+- W praktyce kolejny krok to umówienie rozmowy i przygotowanie projektu pod rekrutację w następnym roku.
+
+## Wiadomość wysłana do prof. Michała Woźniaka
+
+Szanowny Panie Profesorze,
+
+dziękuję za szybką odpowiedź. Rzeczywiście wygląda na to, że na realizację doktoratu wdrożeniowego w tegorocznej rekrutacji jest już zbyt późno.
+
+Cieszę się, że jest Pan otwarty na potencjalną współpracę. Zależy mi na dobrym przygotowaniu do rekrutacji do szkoły doktorskiej w przyszłym roku, dlatego chętnie umówiłbym się na spotkanie — najlepiej również z udziałem dr. Michała Ślęzaka — aby lepiej doprecyzować temat badawczy oraz możliwy plan działania.
+
+Jeśli prowadziłby Pan również inne projekty na styku IT i psychologii, to bardzo chętnie zaangażowałbym się w taką współpracę. Chciałbym stopniowo budować doświadczenie badawcze i rozwijać kompetencje naukowe w tym obszarze przed rozpoczęciem doktoratu.
+
+Z wyrazami szacunku,
+Krzysztof Wiatr
+
+---
+
+## Wiadomość wysłana do dr. Michała Ślęzaka
+
+Cześć Michał,
+
+podpytałem już zarówno na PWr, jak i na SWPS i niestety wygląda na to, że na doktorat wdrożeniowy w tym roku jest już za późno — terminy naborów minęły odpowiednio pod koniec marca / na początku kwietnia. Trochę szkoda, ale z drugiej strony może to da nam więcej czasu, żeby dobrze przygotować do naboru w przyszłym roku.
+
+Korespondowałem też z profesorem Michałem Woźniakiem https://www.kssk.pwr.edu.pl/wozniak/ i wyraził zainteresowanie zarówno samym projektem, jak i potencjalnym byciem promotorem w przyszłym roku. Szczerze mówiąc, chyba najbardziej chciałbym pisać ten doktorat właśnie u niego — wydaje mi się bardzo rzetelną osobą i mam poczucie, że byłby świetnym kontaktem zarówno dla PORT-u, jak i całego wspólnego projektu.
+
+Pomyślałem też, że może moglibyśmy w tym roku spróbować napisać jakąś publikację wokół tego tematu. To pewnie pomogłoby mi później przy dostaniu się do szkoły doktorskiej, a jednocześnie mogłoby być dobrym początkiem większej współpracy. Czy miałbyś czas i ochotę spotkać się w trójkę z profesorem i spokojnie porozmawiać o możliwym planie działania na najbliższy rok.
+
+Jak w ogóle to widzisz? Myślisz, że warto dalej rozwijać ten kierunek i próbować przygotować wszystko pod przyszłoroczną rekrutację?
+
+PS
+działam w sprawie badania focusowego. Chciałem się upewnić jeszcze czy mówiłeś, że w przyszłym tygodniu nie pasuje Ci tylko wtorek i piątek tak średnio?
+
+Pozdrawiam,
+Krzysiek
+
 
 ## Notatka: szybkie wyszukiwanie informacji o Michale Woźniaku
 
